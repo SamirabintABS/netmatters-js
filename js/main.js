@@ -104,10 +104,7 @@ const hamburgerXs = document.getElementsByClassName('hamburger-xs')[0];
 const body = document.body;
 const blocker = document.getElementsByClassName('blocker')[0];
 
-//I added this function to delay the scroll appearing when the sidebar is there
-function scrollDelay() {
-  blocker.style.overflowY = 'scroll';
-}
+
 
 //This is the function that is triggered on click on burger menu button. 
 function openNav() {
