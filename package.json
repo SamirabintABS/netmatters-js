@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adam-pearson/HTML-CSS-Reflection.git"
+    "url": "git+https://github.com/SamirabintABS/netmatters-js.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/adam-pearson/HTML-CSS-Reflection/issues"
+    "url": "https://github.com/SamirabintABS/netmatters-js/issues"
   },
-  "homepage": "https://github.com/adam-pearson/HTML-CSS-Reflection#readme",
+  "homepage": "https://github.com/SamirabintABS/netmatters-js#readme",
   "dependencies": {
     "gulp-babel": "^8.0.0",
     "owl.carousel": "^2.3.4"
